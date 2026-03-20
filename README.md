@@ -1,5 +1,6 @@
 ## Hi there, I'm Erick Hernandez 👋
-Es
+ES
+
 Soy un desarrollador de software con experiencia construyendo aplicaciones web full stack utilizando tecnologías como React, Next.js, Node.js y Laravel. Trabajo principalmente con JavaScript y TypeScript, y también cuento con experiencia en Java.
 
 Me siento cómodo trabajando con bases de datos SQL y MongoDB, así como utilizando herramientas como Docker, Linux y Amazon Web Services para el desarrollo y despliegue de aplicaciones.
